@@ -48,7 +48,5 @@ Each notebook addresses specific tasks outlined in the challenge objectives:
 ### Bubble Charts
 - Explore relationships between GHI, Tamb, and WS, with bubble size representing an additional variable like RH or BP (Barometric Pressure).
 
-### Data Cleaning
-- Clean the dataset based on initial analysis by handling anomalies and missing values, especially in columns like Comments which appear entirely null.
 
 All tasks listed above are completed under each file separately.
